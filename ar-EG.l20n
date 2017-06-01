@@ -16,22 +16,22 @@
 /* frontpage content (https://coggle.it/home), except for the plans section
  * which is described below
  */
-<index-tagline "الطريق السهل لنشر المحتوى المُعقد">
+<index-tagline "الطريق السهل لنشر المحتوى المعقد">
 <index-signupnow "سجل الان">
-<index-login ".لديك حساب بالفعل؟ تسجيل دخول">
+<index-login ".عندك حساب بالفعل؟ تسجيل دخول">
 
 <index-nav-pricing "الأسعار">
 <index-nav-features "المزايا">
 <index-nav-gallery "المعرض">
 
 <index-unleash "أطلق العنان لإبداعك">
-<index-blurb "أنشئ ملاحظات جميلة بسرعة و بسهولة. شاركها مع صُحابك وزمايلك للعمل على أفكاركم مع بعض.">
-<index-viewgallery "أو ألقي نظرة على <a>معرض Coggle</a> للإلهام.">
+<index-blurb "اعمل ملاحظات جميلة بسرعة و بسهولة. شاركها مع صُحابك وزمايلك عشان تشتغلوا على أفكاركم مع بعض.">
+<index-viewgallery "أو بُص على <a>معرض Coggle</a> للإلهام.">
 
 <index-colab-mindmaps """
   <h1>خرايط ذهنية متعاونة</h1>
-  <p>Coggle هي أداة على الانترنت لإنشاء و مشاركة الخرايط الذهنية. تعمل على متصفحك: لاشئ لتحميله. <a>تسجيل الدخول</a> لتبدأ في صُنع خرايطك الذهنية فورًا!</p>
-  <p>أيًا كان ما تفعله من كتابة الملاحظات، العصف الذهني، التخطيط أو عمل شئ مبدع للغاية، سيكون سهل جدًا لتصوره على Coggle. شارك مع صُحابك وزمايلك زي ما تحب. التغييرات التي تصنعها هتظهر مباشرًة على متصفحهم، أيًا كان مكانهم في العالم.</p>
+  <p>Coggle هي أداة على الانترنت لإنشاء و مشاركة الخرايط الذهنية. تعمل على متصفحك: مافيش حاجة تحملها. <a>تسجيل الدخول</a> عشان تبدأ في صُنع خرايطك الذهنية فورًا!</p>
+  <p>أيًا كان الي بتعمله من كتابة ملاحظات، عصف ذهني، التخطيط أو بتعمل شئ مبدع جدًا، هيكون سهل جدًا لتصوره على Coggle. شارك مع صُحابك وزمايلك زي ما تحب. التغييرات التي تصنعها هتظهر مباشرًة على متصفحهم، أيًا كان مكانهم في العالم.</p>
 """>
 
 <index-use-notes """
@@ -43,13 +43,13 @@
 <index-use-brainstorm """
   <div><img></div>
   <h2>عصف ذهني</h2>
-  <p>Take the start of an idea, water it with Coggle and watch it grow into a fully fledged plan, clearly laid out and ready to share.</p>
+  <p>خليك بداية فكرة, نَميها مع Coggle و شاهدها تنمو لخطة واقعية, اترسمت بوضوح و جاهزة للمشاركة.</p>
 """>
 
 <index-use-share """
   <div><img></div>
   <h2>شارك معلومة</h2>
-  <p>Distill your topic into a Coggle, include all the details and share with your team, your classmates or the world!</p>
+  <p>لخص موضوعك في Coggle، ضع كل التفاصيل و شاركها مع فريقك، your classmates or the world!</p>
 """>
     
 <index-use-other """
